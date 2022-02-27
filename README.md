@@ -1,2 +1,2 @@
-# Future-Ready-Talent
-Auto-Essay Web App for Future Ready Talent internship
+# Auto-Essay App
+Auto-Essay Web App with Neo_GPT3 and  streamlit
